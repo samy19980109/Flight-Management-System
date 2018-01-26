@@ -1,0 +1,9 @@
+### Compiling ###
+
+
+### Running ###
+Enter the name of an airport: 
+ABC (AB123, EF555)
+Enter the name of an airport: 
+Exception in thread "main" java.lang.NullPointerException
+	at FlightSchedule.main(FlightSchedule.java:37)
